@@ -1,4 +1,5 @@
 # RedButtonAlerts
+*Rapid communication system utilizing the Twilio API for school administration to reach out to students' emergency contacts given various scenarios!*
 After working on our Hack with Heart Project, as a team, we realized we were passionate about building solutions to help students. After going to several workshops, we were inspired to integrate the Twilio API. Being students ourselves we understand our target market well. We wanted to help make the education system transparent between teachers and parents, by building a platform that fosters smooth, speedy, and safe communication.
 
 ## About the Project
